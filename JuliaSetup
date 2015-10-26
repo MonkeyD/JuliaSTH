@@ -1,0 +1,16 @@
+Julia安装笔记
+  Julia的安装方式
+     1. Ubuntu下安装
+     2. Windows下安装
+     3. Mac下安装（没有尝试）
+  Ubuntu下安装
+      1.使用apt-get命令安装
+        add-apt-repository ppa:staticfloat/juliareleases
+        apt-get update
+        apt-get install julia
+      2.Julia官网下载对应程序包程序包，并为Julia运行程序配置path。
+  Windows下安装
+      1.在Julia官网上下载对应版本的安装程序。
+      2.为实现类似于Unbutu命令窗口的运行方式，需要配置julia.exe的路径。
+  Mac下安装
+  （未尝试）
